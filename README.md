@@ -2,13 +2,13 @@
 Adventure Game for Introduction to Programming
 
 ## Game Overview
-
 Explore an old dungeon to find the hidden treasure, and maybe make some friends along the way.
+
 ### World
-What is the environment like that the player will be moving around in? What areas can they explore? Are there items they can find and interact with or add to their inventory?
+The player explores an old dungeon and must solve puzzles in order to traverse it.
 
 ### Characters
-Who will the player meet as they play your game?
+The player can meet a mimic, a skull named Yorick, and a troll named David
 
 ### Player Goals
-What does the player need to accomplish? How is their progress tracked?
+The player must solve puzzles in order to find the hidden treasure, and may find loot and friends throughout their journey.
